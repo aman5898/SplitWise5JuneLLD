@@ -13,3 +13,6 @@ public class SettleUpGroupResponseDTO {
     private ResponseStatus responseStatus;
     private String message;
 }
+
+//aman -> kayvya ->  30
+//puneet -> Ashwin -> x
